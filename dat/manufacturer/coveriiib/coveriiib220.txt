@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+551    168    89    23    6    107

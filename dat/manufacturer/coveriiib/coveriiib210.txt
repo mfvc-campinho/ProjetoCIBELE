@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+521    165    84    15    8    114

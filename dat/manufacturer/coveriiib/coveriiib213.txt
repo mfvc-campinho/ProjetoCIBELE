@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+527    166    84    13    9    118

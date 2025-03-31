@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+502    162    92    14    9    117

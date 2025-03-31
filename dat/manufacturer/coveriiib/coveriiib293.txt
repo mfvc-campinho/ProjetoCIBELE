@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+905    88    67    13    4    112

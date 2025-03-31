@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+906    88    73    15    4    106

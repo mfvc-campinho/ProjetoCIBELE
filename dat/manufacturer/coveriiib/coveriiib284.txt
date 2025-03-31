@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+886    83    50    9    4    114

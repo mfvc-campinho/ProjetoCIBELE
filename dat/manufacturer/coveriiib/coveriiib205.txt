@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+501    162    84    13    9    115

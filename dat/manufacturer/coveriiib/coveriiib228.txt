@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+577    171    87    14    9    117

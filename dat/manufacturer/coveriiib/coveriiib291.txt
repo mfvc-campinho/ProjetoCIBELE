@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+899    86    84    11    6    108

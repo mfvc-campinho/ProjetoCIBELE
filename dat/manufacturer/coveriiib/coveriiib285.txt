@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+887    84    67    13    4    107

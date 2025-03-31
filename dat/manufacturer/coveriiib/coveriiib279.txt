@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+880    81    81    9    7    103

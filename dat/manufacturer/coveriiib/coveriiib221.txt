@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+552    168    92    19    7    115

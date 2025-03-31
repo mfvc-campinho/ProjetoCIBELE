@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+565    170    149    25    9    111

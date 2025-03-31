@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+494    161    86    14    9    108

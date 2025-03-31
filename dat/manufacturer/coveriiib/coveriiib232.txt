@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+593    174    89    23    6    111

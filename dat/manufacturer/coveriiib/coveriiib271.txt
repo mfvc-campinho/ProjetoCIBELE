@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+863    72    67    9    5    106

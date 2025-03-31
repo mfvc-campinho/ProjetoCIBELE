@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+564    170    147    19    11    solving

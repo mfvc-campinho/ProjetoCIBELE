@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+889    84    76    9    7    100

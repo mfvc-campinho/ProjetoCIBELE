@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+838    252    148    23    14    solving

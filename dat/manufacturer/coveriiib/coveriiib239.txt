@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+663    184    98    21    8    106

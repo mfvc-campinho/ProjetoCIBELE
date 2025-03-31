@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+861    69    68    9    5    103

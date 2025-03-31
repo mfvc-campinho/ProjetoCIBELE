@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+572    171    118    26    7    109

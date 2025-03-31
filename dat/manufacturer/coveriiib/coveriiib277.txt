@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+870    75    70    11    4    118
