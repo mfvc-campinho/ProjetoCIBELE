@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+40	106	59	13	5	96

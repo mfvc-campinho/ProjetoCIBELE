@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+34	81	39	9	7	49

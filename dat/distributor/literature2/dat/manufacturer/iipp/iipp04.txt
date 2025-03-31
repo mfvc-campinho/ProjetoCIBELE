@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+4	 22	16	5 	3 	23

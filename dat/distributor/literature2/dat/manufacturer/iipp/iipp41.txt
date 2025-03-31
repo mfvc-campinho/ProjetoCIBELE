@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+41	141	71	13	8	96

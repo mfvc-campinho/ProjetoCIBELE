@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+32	53	26	7	4	48

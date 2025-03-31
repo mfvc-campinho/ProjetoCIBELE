@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+48	67	37	11	3	75

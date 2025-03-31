@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+49	67	40	11	3	81

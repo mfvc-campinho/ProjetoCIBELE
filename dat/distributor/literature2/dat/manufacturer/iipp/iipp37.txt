@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+37	61	35	10	3	71

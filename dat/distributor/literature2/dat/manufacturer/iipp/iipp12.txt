@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+12	 87	47	7 	6 	97

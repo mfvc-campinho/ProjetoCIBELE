@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+38	61	38	10	3	77

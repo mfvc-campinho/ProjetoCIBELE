@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+36	 	63	44	8	5	69

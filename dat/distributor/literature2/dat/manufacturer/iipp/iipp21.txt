@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+21	56	52	12	5	48
