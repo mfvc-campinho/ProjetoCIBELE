@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+322    140    103    18    7    113

@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+374    145    126    20    9    100

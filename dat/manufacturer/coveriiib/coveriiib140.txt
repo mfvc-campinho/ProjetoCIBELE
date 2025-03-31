@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+283    135    68    11    7    solving

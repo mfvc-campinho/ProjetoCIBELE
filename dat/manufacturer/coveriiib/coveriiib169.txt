@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+364    144    73    13    7    114

@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+351    143    139    20    9    109

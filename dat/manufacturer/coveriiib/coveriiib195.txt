@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+472    156    96    13    10    114

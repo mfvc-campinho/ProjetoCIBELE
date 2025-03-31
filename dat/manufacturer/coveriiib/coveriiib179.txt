@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+403    149    105    19    7    116

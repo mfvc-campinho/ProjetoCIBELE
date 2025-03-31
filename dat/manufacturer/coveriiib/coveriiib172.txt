@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+370    144    88    16    7    112

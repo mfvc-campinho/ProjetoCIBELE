@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+399    148    74    19    5    114

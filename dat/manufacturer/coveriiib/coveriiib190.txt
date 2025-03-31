@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+457    153    88    13    9    114

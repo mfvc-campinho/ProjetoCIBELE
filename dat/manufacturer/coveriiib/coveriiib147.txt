@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+309    138    84    13    8    110

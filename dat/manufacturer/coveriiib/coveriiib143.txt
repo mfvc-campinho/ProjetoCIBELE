@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+291    136    68    11    8    104

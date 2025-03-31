@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+329    140    70    18    5    107

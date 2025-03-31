@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+491    161    149    25    9    105

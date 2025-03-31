@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+386    146    95    13    10    105

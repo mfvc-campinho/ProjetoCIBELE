@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+355    143    95    14    9    106

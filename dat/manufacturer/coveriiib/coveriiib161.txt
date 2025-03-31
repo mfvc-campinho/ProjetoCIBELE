@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+338    141    82    13    8    110

@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+381    146    129    26    7    solving
