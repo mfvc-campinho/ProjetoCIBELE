@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+32    105    59    12    5    102

@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+52    107    84    11    6    135

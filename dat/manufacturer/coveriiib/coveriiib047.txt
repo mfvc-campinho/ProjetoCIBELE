@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+48    107    74    8    7    solving

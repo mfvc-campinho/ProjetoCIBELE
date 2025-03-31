@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+41    106    81    12    5    142

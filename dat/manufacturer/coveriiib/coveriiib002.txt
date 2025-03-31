@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+2    101    52    8    5    solving

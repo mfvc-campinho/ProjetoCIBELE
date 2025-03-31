@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+40    106    78    11    5    solving

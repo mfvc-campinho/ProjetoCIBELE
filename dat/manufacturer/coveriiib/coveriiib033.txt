@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+34    105    82    12    7    101

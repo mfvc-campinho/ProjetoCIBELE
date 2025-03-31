@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+157    118    69    10    7    115

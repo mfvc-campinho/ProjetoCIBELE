@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+44    106    93    11    6    148

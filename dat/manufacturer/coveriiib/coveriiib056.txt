@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+57    108    103    11    8    solving

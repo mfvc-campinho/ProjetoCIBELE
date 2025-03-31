@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+43    106    90    12    7    112

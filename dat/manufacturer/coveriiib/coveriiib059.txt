@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+61    108    81    13    6    111

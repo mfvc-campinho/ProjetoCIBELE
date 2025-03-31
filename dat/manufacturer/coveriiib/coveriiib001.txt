@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+1    100    94    9    7    solving
