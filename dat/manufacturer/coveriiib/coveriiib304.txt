@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+932    94    54    11    4    114

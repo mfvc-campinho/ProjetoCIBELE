@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+970    99    91    16    5    111

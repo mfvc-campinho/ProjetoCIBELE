@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+955    97    69    9    7    105

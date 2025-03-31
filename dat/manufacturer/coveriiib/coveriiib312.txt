@@ -1,0 +1,2 @@
+Instance    L   W   l   w   z
+966    99    59    8    7    103
